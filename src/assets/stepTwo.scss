@@ -1,0 +1,35 @@
+h1 {
+  margin-top: 20px;
+}
+
+.stepTwo {
+  display: flex;
+  flex-direction: column;
+  background-color: lightgray;
+  padding: 15px;
+  margin-top: 20px;
+  width: 300px;
+  border-radius: 7px;
+
+  p {
+    padding: 10px 0;
+  }
+}
+
+.return {
+  width: 300px;
+  height: 40px;
+  margin-top: 15px;
+  padding: 15px;
+  background-color: rgb(128, 0, 255);
+  text-align: center;
+  border-radius: 7px;
+  cursor: pointer;
+
+  h2 {
+    font-size: 1rem;
+    padding: 10px 0;
+    line-height: 1.5rem;
+    color: white;
+  }
+}
